@@ -1,0 +1,13 @@
+{
+    "name": "xinfengaixuexi/test_composer",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xinfeng",
+            "email": "m15834039149@163.com"
+        }
+    ],
+    "require": {}
+}
